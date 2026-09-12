@@ -1,0 +1,4 @@
+feedparser
+requests
+Pillow
+python-telegram-bot==20.7
